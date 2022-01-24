@@ -1,0 +1,49 @@
+.task {
+    border: 1px solid;
+    align-items: center;
+    margin: 0px 0px 10px 0px;
+}
+.even-task{
+    display: flex;
+    justify-content: space-around;
+    margin: 15px 0px;
+}
+.btn-details {
+    padding: 5px 15px;
+}
+
+
+.btn-remove {
+    padding: 5px 15px;
+}
+.bulk-action {
+    border: 1px solid;
+    align-items: center;
+    margin: 0px 0px 10px 0px;
+    background-color: blueviolet;
+}
+.btn-block {
+    display: block;
+    width: 100%;
+}
+.select-state {
+    height: 38px;
+}
+.icon-date{
+    width: 38px;
+    height: 38px;
+    border: 1px solid black;
+}
+.date {
+    border: 1px solid black;
+    height: 38px;
+}
+.task-bottom {
+    border-bottom: 1px solid black;
+    margin: 0px 0px 10px 0px;
+    align-items: center;
+}
+.item-center{
+    align-items: center;
+    margin-left: 5px;
+}
